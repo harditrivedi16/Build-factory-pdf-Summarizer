@@ -1,0 +1,274 @@
+[
+  {
+    "Item/Fixture Type": "Blower Curtain",
+    "Quantity": "",
+    "Model Number / Spec Reference": "BC",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Boiler Circ. Pump",
+    "Quantity": "",
+    "Model Number / Spec Reference": "BCP",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Chem-Feed Storage",
+    "Quantity": "",
+    "Model Number / Spec Reference": "CFS",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Chilled-Water Pump",
+    "Quantity": "",
+    "Model Number / Spec Reference": "CHWP",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Chilled Water Return",
+    "Quantity": "",
+    "Model Number / Spec Reference": "CHWR",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Chilled Water Supply",
+    "Quantity": "",
+    "Model Number / Spec Reference": "CHWS",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Condenser-Water Pump",
+    "Quantity": "",
+    "Model Number / Spec Reference": "CWP",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Condenser Water Return",
+    "Quantity": "",
+    "Model Number / Spec Reference": "CWR",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Condenser Water Supply",
+    "Quantity": "",
+    "Model Number / Spec Reference": "CWS",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Expansion Tank",
+    "Quantity": "",
+    "Model Number / Spec Reference": "ET",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Fan-Coil Unit",
+    "Quantity": "",
+    "Model Number / Spec Reference": "FCU",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Unit Heater (Hot-Water)",
+    "Quantity": "",
+    "Model Number / Spec Reference": "HUH",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Heating Hot Water Return",
+    "Quantity": "",
+    "Model Number / Spec Reference": "HHWR",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Heating Hot Water Supply",
+    "Quantity": "",
+    "Model Number / Spec Reference": "HHWS",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Heat Exchanger",
+    "Quantity": "",
+    "Model Number / Spec Reference": "HX",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Make-up Air Unit",
+    "Quantity": "",
+    "Model Number / Spec Reference": "MAU",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Variable-Air-Volume Box",
+    "Quantity": "",
+    "Model Number / Spec Reference": "VAV",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Blower Curtain",
+    "Quantity": "",
+    "Model Number / Spec Reference": "BC",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Heating Hot Water Supply",
+    "Quantity": "",
+    "Model Number / Spec Reference": "HHWS",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Heating Hot Water Return",
+    "Quantity": "",
+    "Model Number / Spec Reference": "HHWR",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Condenser Water Return",
+    "Quantity": "",
+    "Model Number / Spec Reference": "CWR",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Make-up Air Unit",
+    "Quantity": "",
+    "Model Number / Spec Reference": "MAU",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Heating Hot Water Return",
+    "Quantity": "",
+    "Model Number / Spec Reference": "HHWR",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Unit Heater (Hot-Water)",
+    "Quantity": "",
+    "Model Number / Spec Reference": "HUH",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Heating Hot Water Supply",
+    "Quantity": "",
+    "Model Number / Spec Reference": "HHWS",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Heating Hot Water Return",
+    "Quantity": "",
+    "Model Number / Spec Reference": "HHWR",
+    "Page Reference": "2",
+    "Associated Dimensions": "2\"",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Heating Hot Water Supply",
+    "Quantity": "",
+    "Model Number / Spec Reference": "HHWS",
+    "Page Reference": "2",
+    "Associated Dimensions": "2\"",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Heating Hot Water Return",
+    "Quantity": "",
+    "Model Number / Spec Reference": "HHWR",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Heating Hot Water Supply",
+    "Quantity": "",
+    "Model Number / Spec Reference": "HHWS",
+    "Page Reference": "2",
+    "Associated Dimensions": "4\"; 5' - 5 1/2\"; 4\"",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Heating Hot Water Return",
+    "Quantity": "",
+    "Model Number / Spec Reference": "HHWR",
+    "Page Reference": "2",
+    "Associated Dimensions": "4\"",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Unit Heater (Hot-Water)",
+    "Quantity": "",
+    "Model Number / Spec Reference": "HUH",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Heating Hot Water Return",
+    "Quantity": "",
+    "Model Number / Spec Reference": "HHWR",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Heating Hot Water Supply",
+    "Quantity": "",
+    "Model Number / Spec Reference": "HHWS",
+    "Page Reference": "2",
+    "Associated Dimensions": "",
+    "Mounting Type": ""
+  },
+  {
+    "Item/Fixture Type": "Heating Hot Water Supply",
+    "Quantity": "19' -6 1/8\"",
+    "Model Number / Spec Reference": "HHWS",
+    "Page Reference": "2",
+    "Associated Dimensions": "19' -6 1/8\"; 6' -1 5/8\"",
+    "Mounting Type": ""
+  }
+]

@@ -1,0 +1,35 @@
+Item/Fixture Type,Quantity,Mounting Type,Page Reference,Associated Dimensions,Model Number / Spec Reference
+Blower Curtain,,,2,,BC
+Boiler Circ. Pump,,,2,,BCP
+Chem-Feed Storage,,,2,,CFS
+Chilled-Water Pump,,,2,,CHWP
+Chilled Water Return,,,2,,CHWR
+Chilled Water Supply,,,2,,CHWS
+Condenser-Water Pump,,,2,,CWP
+Condenser Water Return,,,2,,CWR
+Condenser Water Supply,,,2,,CWS
+Expansion Tank,,,2,,ET
+Fan-Coil Unit,,,2,,FCU
+Unit Heater (Hot-Water),,,2,,HUH
+Heating Hot Water Return,,,2,,HHWR
+Heating Hot Water Supply,,,2,,HHWS
+Heat Exchanger,,,2,,HX
+Make-up Air Unit,,,2,,MAU
+Variable-Air-Volume Box,,,2,,VAV
+Blower Curtain,,,2,,BC
+Heating Hot Water Supply,,,2,,HHWS
+Heating Hot Water Return,,,2,,HHWR
+Condenser Water Return,,,2,,CWR
+Make-up Air Unit,,,2,,MAU
+Heating Hot Water Return,,,2,,HHWR
+Unit Heater (Hot-Water),,,2,,HUH
+Heating Hot Water Supply,,,2,,HHWS
+Heating Hot Water Return,,,2,"2""",HHWR
+Heating Hot Water Supply,,,2,"2""",HHWS
+Heating Hot Water Return,,,2,,HHWR
+Heating Hot Water Supply,,,2,"4""; 5' - 5 1/2""; 4""",HHWS
+Heating Hot Water Return,,,2,"4""",HHWR
+Unit Heater (Hot-Water),,,2,,HUH
+Heating Hot Water Return,,,2,,HHWR
+Heating Hot Water Supply,,,2,,HHWS
+Heating Hot Water Supply,"19' -6 1/8""",,2,"19' -6 1/8""; 6' -1 5/8""",HHWS
